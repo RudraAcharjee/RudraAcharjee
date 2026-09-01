@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Acharjee</h1>
 
 <h3 align="center">
-  Full-Stack Web Developer • JavaScript Enthusiast • Lifelong Learner
+  Web Developer in Progress • JavaScript Learner • Building One Project at a Time 🚀
 </h3>
 
 <p align="center">
@@ -11,9 +11,6 @@
   <a href="https://github.com/RudraAcharjee?tab=followers">
     <img src="https://img.shields.io/github/followers/RudraAcharjee?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/RudraAcharjee">
-    <img src="https://img.shields.io/github/stars/RudraAcharjee?label=Stars&style=flat&logo=github" alt="GitHub Stars" />
-  </a>
 </p>
 
 <p align="center">
@@ -21,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-RudraAcharjee-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:rudraacharjee080@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://fb.com/rudra12334">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -32,154 +29,250 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rudra Acharjee**, a passionate web developer from **Bangladesh 🇧🇩** who enjoys turning ideas into clean, functional, and responsive web applications.
+I'm **Rudra Acharjee**, a web development learner focused on building a strong foundation in modern web technologies.
 
-* 🔭 Currently working on my **Programming Hero First Portfolio Website**
-* 🌱 Currently learning **Tailwind CSS, TypeScript & React**
-* 💻 Interested in **Full-Stack Web Development**
-* 🧠 Continuously improving my JavaScript and problem-solving skills
-* 🤝 Open to collaboration and interesting web development projects
-* 🚀 Goal: Build modern, scalable, and user-friendly web applications
-* ⚡ Fun fact: I enjoy turning ideas into code and learning something new every day
+I enjoy understanding how things work, solving programming problems, and turning ideas into real projects.
+
+- 🔭 Currently working on my **Programming Hero First Portfolio Website**
+- 🌱 Currently focused on **JavaScript & TypeScript**
+- ⚛️ Learning **React** for modern frontend development
+- 🎨 Learning **Tailwind CSS** for responsive UI development
+- 🧠 Practicing programming fundamentals and problem solving
+- 🔧 Learning how to write cleaner, more maintainable code
+- 🚀 Building projects to turn theory into practical experience
+- 💻 Working toward becoming a professional **Full-Stack Web Developer**
+- 🇧🇩 Based in Bangladesh
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Frontend Development     ███████████████████░   Learning
-JavaScript               ██████████████████░░   Improving
-React                    ███████████████░░░░░   Learning
-TypeScript               ██████████████░░░░░░   Learning
-Tailwind CSS             ████████████████░░░░   Learning
-Backend Development      ███████████░░░░░░░░░   Exploring
-Problem Solving          ███████████████░░░░░   Practicing
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Improving-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Learning-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Frontend-Development-FF6B6B?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Development" />
+  <img src="https://img.shields.io/badge/Backend-Exploring-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Development" />
+</p>
+
+<p align="center">
+  <b>💻 Building → 🧠 Learning → 🛠️ Practicing → 🚀 Improving</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technologies & Tools
 
-### 💻 Languages
+### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript" />
 </p>
 
-### ⚛️ Frontend
+### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="React Tailwind CSS" />
 </p>
 
-### 🧩 Backend & Tools
+### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,vscode" alt="Backend and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git GitHub VS Code Linux" />
 </p>
 
-### 🎨 Design
+### Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Figma Photoshop" />
+</p>
+
+---
+
+## 📚 What I'm Learning
+
+<p align="center">
+
+<b>🌐 Web Fundamentals</b><br>
+HTML • CSS • Responsive Design
+
+⬇️
+
+<b>🟨 JavaScript</b><br>
+Fundamentals • Functions • Objects • Arrays • ES6+
+
+⬇️
+
+<b>🔧 Development Tools</b><br>
+Git • GitHub • VS Code
+
+⬇️
+
+<b>🎨 Modern UI</b><br>
+Tailwind CSS • Responsive UI • Component Design
+
+⬇️
+
+<b>⚛️ Frontend Development</b><br>
+React • Components • Props • State
+
+⬇️
+
+<b>🔷 TypeScript</b><br>
+Types • Interfaces • Type Safety
+
+⬇️
+
+<b>🟢 Backend Development</b><br>
+Node.js • APIs • Server-side Development
+
+⬇️
+
+<b>🚀 Full-Stack Development</b><br>
+Building complete, real-world applications
+
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=RudraAcharjee&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="Rudra's GitHub Stats"
+  />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RudraAcharjee&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=tokyonight" alt="Rudra's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraAcharjee&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Rudra's Top Languages" />
-
-</div>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraAcharjee&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+    alt="Rudra's Top Languages"
+  />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RudraAcharjee&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=RudraAcharjee&theme=tokyonight&hide_border=true"
+    alt="Rudra's GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/RudraAcharjee">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudraAcharjee&theme=tokyo-night&hide_border=true&area=true" alt="Rudra's Contribution Activity Graph" />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RudraAcharjee&theme=tokyo-night&hide_border=true&area=true"
+    alt="Rudra's Contribution Activity Graph"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RudraAcharjee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=RudraAcharjee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Profile Trophies"
+  />
 </p>
 
 ---
 
 # 🚀 Featured Project
 
-### 🌐 Programming Hero First Portfolio Website
+## 🌐 Programming Hero First Portfolio Website
 
-A responsive portfolio website built as part of my web development learning journey.
+My first portfolio project created during my web development learning journey.
 
-**Tech:** HTML • CSS • JavaScript
+The project focuses on practicing the fundamentals of:
 
-<p align="left">
+- HTML
+- CSS
+- Responsive design
+- Website structure
+- Git & GitHub
+
+<p>
   <a href="https://github.com/RudraAcharjee/programming-hero-first-portfolio-website">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+    <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
   </a>
 </p>
 
 ---
 
-## 💡 What I'm Learning
+# 💻 What I'm Practicing
 
-```text
-HTML & CSS
-    ↓
-JavaScript
-    ↓
-Git & GitHub
-    ↓
-Tailwind CSS
-    ↓
-React
-    ↓
-TypeScript
-    ↓
-Node.js
-    ↓
-Full-Stack Development
-```
+### JavaScript
 
-I'm focusing on understanding the fundamentals instead of simply copying code. My goal is to build projects that demonstrate real problem-solving and practical development skills.
+- Variables & data types
+- Functions
+- Arrays
+- Objects
+- Loops
+- Array methods
+- `map()`
+- `forEach()`
+- Object methods
+- Spread operator
+- References & mutation
+- String manipulation
+- Type checking
+- Problem solving
+
+### TypeScript
+
+- Types
+- Interfaces
+- Type aliases
+- Union types
+- Objects
+- Function typing
+- Type safety
+
+### Frontend
+
+- Semantic HTML
+- CSS fundamentals
+- Responsive design
+- Tailwind CSS
+- React fundamentals
+- Component-based development
 
 ---
 
-## 🤝 Let's Collaborate
+# 🌱 My Goal
 
-I'm interested in collaborating on:
+> **Become a professional web developer by building strong fundamentals and real-world projects.**
 
-* 🌐 Web development projects
-* ⚛️ React applications
-* 🧩 JavaScript projects
-* 🎨 Responsive UI/UX projects
-* 🚀 Open-source projects
-* 💡 Interesting beginner-friendly projects
-
-If you're working on something interesting, feel free to reach out!
+I'm currently focused on consistency, learning every day, and gradually moving from beginner-level projects toward production-quality applications.
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Collaboration
+
+I'm open to collaborating on:
+
+- 🌐 Web development projects
+- ⚛️ React projects
+- 🟨 JavaScript projects
+- 🔷 TypeScript projects
+- 🎨 Frontend/UI projects
+- 🚀 Beginner-friendly open-source projects
+
+If you're building something interesting, feel free to connect!
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -199,16 +292,14 @@ If you're working on something interesting, feel free to reach out!
 
 ---
 
-## 📈 My GitHub Journey
+## ⚡ Developer Mindset
 
 <p align="center">
-  <i>
-    "Every commit is a small step toward becoming a better developer."
-  </i>
+  <i>"Don't just copy the code. Understand the code."</i>
 </p>
 
 <p align="center">
-  💻 Code • Learn • Build • Improve • Repeat 🔁
+  💻 Learn • 🧠 Understand • 🛠️ Build • 🐛 Debug • 🚀 Improve
 </p>
 
 ---
