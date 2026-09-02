@@ -139,10 +139,6 @@ Building complete, real-world applications
 
 ---
 
-# 📊 GitHub Analytics
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -173,46 +169,6 @@ The project focuses on practicing the fundamentals of:
     <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
   </a>
 </p>
-
----
-
-# 💻 What I'm Practicing
-
-### JavaScript
-
-- Variables & data types
-- Functions
-- Arrays
-- Objects
-- Loops
-- Array methods
-- `map()`
-- `forEach()`
-- Object methods
-- Spread operator
-- References & mutation
-- String manipulation
-- Type checking
-- Problem solving
-
-### TypeScript
-
-- Types
-- Interfaces
-- Type aliases
-- Union types
-- Objects
-- Function typing
-- Type safety
-
-### Frontend
-
-- Semantic HTML
-- CSS fundamentals
-- Responsive design
-- Tailwind CSS
-- React fundamentals
-- Component-based development
 
 ---
 
