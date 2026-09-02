@@ -1,10 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="right" alt="My GitHub Banner" width="100%" src="https://github.com/RudraAcharjee/banner-images/blob/main/banner.png">
 <h1 align="center">Hi 👋, I'm Rudra Acharjee</h1>
 
 <h3 align="center">
   Web Developer in Progress • JavaScript Learner • Building One Project at a Time
 </h3>
- <img src="https://drive.google.com/file/d/1kX6I3IbNYougk0M-vv67BeEt7OyRzXHN/view?usp=drive_link" alt="My GitHub Banner" width="100%">
+
 <p align="center">
   <a href="https://github.com/RudraAcharjee">
     <img src="https://komarev.com/ghpvc/?username=RudraAcharjee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -139,20 +139,6 @@ Building complete, real-world applications
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=RudraAcharjee&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
-    alt="Rudra's GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraAcharjee&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-    alt="Rudra's Top Languages"
-  />
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
@@ -161,28 +147,6 @@ Building complete, real-world applications
   <img
     src="https://streak-stats.demolab.com/?user=RudraAcharjee&theme=tokyonight&hide_border=true"
     alt="Rudra's GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RudraAcharjee&theme=tokyo-night&hide_border=true&area=true"
-    alt="Rudra's Contribution Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=RudraAcharjee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Profile Trophies"
   />
 </p>
 
@@ -294,11 +258,6 @@ If you're building something interesting, feel free to connect!
 ---
 
 ## ⚡ Developer Mindset
-
-<p align="center">
-  <i>"Don't just copy the code. Understand the code."</i>
-</p>
-
 <p align="center">
   💻 Learn • 🧠 Understand • 🛠️ Build • 🐛 Debug • 🚀 Improve
 </p>
