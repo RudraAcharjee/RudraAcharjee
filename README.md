@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Acharjee</h1>
 
 <h3 align="center">
-  Web Developer in Progress • JavaScript Learner • Building One Project at a Time 🚀
+  Web Developer in Progress • JavaScript Learner • Building One Project at a Time
 </h3>
-
+ <img src="https://drive.google.com/file/d/1kX6I3IbNYougk0M-vv67BeEt7OyRzXHN/view?usp=drive_link" alt="My GitHub Banner" width="100%">
 <p align="center">
   <a href="https://github.com/RudraAcharjee">
     <img src="https://komarev.com/ghpvc/?username=RudraAcharjee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
