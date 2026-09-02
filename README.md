@@ -1,4 +1,6 @@
-<img align="right" alt="My GitHub Banner" width="100%" src="https://github.com/RudraAcharjee/banner-images/blob/main/banner.png">
+<p align="center">
+  <img src="https://github.com/RudraAcharjee/banner-images/blob/main/banner.png" alt="My GitHub Banner" width="1280" height="640">
+</p>
 <h1 align="center">Hi 👋, I'm Rudra Acharjee</h1>
 
 <h3 align="center">
